@@ -1,0 +1,126 @@
+.navbar-brand{
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+}
+.nav.navbar-nav.navbar-right li a{
+    color:#dfa0ff;
+    font-weight:bold;
+    font-size:25px;
+}
+marquee{
+    background-color:rgb(129, 200, 255);
+    color:rgb(0, 0, 0);
+    font-size:30px;
+    padding-bottom:5px;
+}
+#mycarousel{
+    background-color: rgb(255, 255, 255);
+}
+#mycarousel img{
+    height:800px;
+    width:100%;
+    border:10px solid;
+}
+.pic1{
+    float:left;
+    width:33.33%;
+    padding:10px;
+    border:5px solid grey;
+}
+.pic1 img{
+width:100%;
+height:400px;
+}
+.dropdown{
+    font-size:30px;
+    padding:6px 20px; /*6px is the padding on the top and bottom and 20px is the left padding*/
+    border-radius:10px;
+    margin-bottom:15px;
+    background:black;
+    color:white;
+    width:100%;
+    display:inline-block;
+}
+.dropdown i{
+    float:right;
+}
+#c1{
+    margin-top:13px;
+}
+#c1 h4{
+    padding:8px;
+    border-bottom:2px solid white;
+}
+#c1 img{
+    height:250px;
+    border-radius:25px;
+}
+#c1 p{
+    margin-top: 13px;
+}
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom:10px;
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal-body{
+    text-align:center;
+}
+#im{
+    height:400px;
+}
+#map{
+    width:50%;
+    float:left;
+    
+}
+b{
+    font-size:20px;
+}
+#p1{
+    margin-right:100px;
+    margin-bottom:50px;
+    border:2px solid grey;
+    margin:20px;
+    box-shadow:5px 5px 5px grey;
+}
+#contacts{
+   padding-top:100px;
+}
+#hd{
+    color:white;
+}
+.input{
+    float:right;
+    height:40px;
+}
+#im2{
+    height:340px;
+}
+
+#im3{
+    height:280px;
+}
+#im4{
+    height:280px;
+}
+#im5{
+    height:260px;
+}
+#im6{
+    height: 300px;
+}
+#im7{
+    height:280px;
+}
